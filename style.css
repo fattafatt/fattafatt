@@ -1,0 +1,17 @@
+h10{
+
+	color: white;
+	background-color: orangered;
+	font-size: 30px;
+	width: 150px;
+	border: solid black;
+
+
+}
+
+h10:hover{
+
+	background-color: white;
+	color: black;
+}
+
